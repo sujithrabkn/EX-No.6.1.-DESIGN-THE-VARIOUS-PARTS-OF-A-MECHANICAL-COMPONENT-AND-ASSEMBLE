@@ -63,7 +63,9 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
-![Screenshot 2023-06-07 225730](https://github.com/sujithrabkn/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/119477857/fbcf5129-7b56-47ce-81b4-7d9ec3a4d5de)
+
+![SUJI 6 1(EDM)](https://github.com/sujithrabkn/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/119477857/b0a2155c-cc3c-4bfc-b9dd-9097e187d0e8)
+
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
